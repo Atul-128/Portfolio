@@ -1,0 +1,216 @@
+<html>
+	<head>
+		<title> My portfolio</title>
+		<link rel="stylesheet" href="port.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" 
+		integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous"
+		referrerpolicy="no-referrer" />
+	</head>
+	<body>
+	<!-- Navigation bar -->
+		<div class="nav">
+			<div class="nav-h1">
+				<h1><span>Port</span>folio</h1>
+			</div>
+			<div class="nav-options">
+				<a href="#home">Home</a>
+				<a href="#about">About</a>
+				<a href="#services">Services</a>
+				<a href="#projects">Projects</a>
+				<a href="degree.html" target="blank">Degree&Certificate</a>
+			</div>
+			<div class="nav-btn">
+				<a href="#contect"><button>Contact me</button></a>
+			</div>
+			<i class="fa-solid fa-bars menu-icon"></i>
+			<i class="fa-solid fa-circle-xmark close-icon"></i>
+		</div> 
+			<div class="nav-options2">
+				<a href="#home">Home</a>
+				<a href="#about">About</a>
+				<a href="#services">Services</a>
+				<a href="#projects">Projects</a>
+				<a href="degree.html" target="blank">Degree&Certificate</a>
+				<a href="#contect">Contact me</a>
+			</div>		<!-- Hero-Section -->
+		<div class="herosec" id="home">
+			<div class="herosec-left">
+				<div class="herosec-left1">
+					<div class="herosec-para1">
+						<P>Hello, Myself Atul Kumar</P>
+					</div>
+					<div class="herosec-h1">
+						<h1>Full Stack developer</h1>
+					</div>
+					<div class="herosec-para2">
+						<p>I am full stack developer. </p>
+						<p> A full-stack developer is a programmer who works on both the front-end and back-end of a web application. 
+						They are responsible for the entire application, from the user interface to the server-side logic.</p>
+					</div>
+					<div class="herosec-btn">
+						<a href="Atul-Resume.pdf"><button>Download Resume</button></a>
+					</div>
+				</div>
+			</div>
+			<div class="herosec-right">
+				<div class="herosec-right1">
+					<div class="herosec-img">
+						<img src="atul.jpg" class="herosec-myimg">
+					</div>
+				</div>
+			</div>
+		
+		</div>
+		<div class="about" id="about">
+			<div class="about-left">
+				<div class="img-box">
+					<img src="100.jpg" class="left-img" height="450px" width="380px">
+				</div>
+			</div>
+			<div class="about-right">
+				<div class="about-h1">
+					<h1>About me</h1><hr width="25%">
+				</div>
+				<div class="about-rig-para">
+					<p>	My journey into the world of technology began with a keen interest in computers and how they operate. Over time, this curiosity evolved 
+					into a passion for programming, software development, and web development. As a BCA student, I am dedicated to learning and mastering the 
+					skills necessary to build a successful career in the tech industry.</p>
+					<p>Hello, my name is<b> Atul Kumar</b>, and I am currently  pursuing a Bachelor of Computer Applications (BCA). 
+					I am belongs  to a unclear family. My strength are I am self motivating person and I have strong communication skill also.
+					My short term goal is to get a job in a reputed company and long term is to achieve a good position in Multinational corporation(MNC).
+					Where I can build my career and help the organization too. My hobbies are reading books and dancing lastly, 
+					I am a quick learner and believe in learning from my past mistakes and experiences.</p>
+					
+				</div>
+				<div class="about-rig-skillexper">
+					<!-- <div class="about-rig-skills"> -->
+						<div class="about-skills">
+							<h2>Skills</h2>
+						</div>
+						<div class="about-edu">
+							<h2>Education</h2>
+						</div>
+				</div>
+						<div class="about-list">
+							<div class="about-rig-list1">
+								<ul>
+									<li><h3>Frontend Development</h3></li>
+										<p>HTML, CSS, JS</p>
+									<li><h3>Backend Development</h3></li>
+										<p>Node JS, Express JS, Mongo DB</p>
+								</ul>
+							</div>
+							<div class="about-rig-list2">
+								<ul>
+									<li><h3>12th BSEB Bord</h3></li>
+										<p>Commerce</p>
+									<li><h3>Graduation</h3></li>
+										<p>Purusing BCA from Impact College Patna</p>
+								</ul>
+							</div>
+						</div>
+					
+					<!-- </div> -->
+			</div>
+		</div>
+		<div class="services" id="services">
+			<div class="services-h1">
+				<h1>My Services</h1>
+				
+			</div>
+			<div class="services-box">
+				<div class="services-box1">	
+					<i class="fa-solid fa-heart"></i>
+					<h2>Web Developer</h2>
+				   <p>Web development is the process of creating, maintaining, and improving websites and web applications. 
+				   It involves a variety of tasks, including design, programming.</p>
+				   <p class="learn">Learn more...</p>
+				</div>
+				<div class="services-box2">
+					<i class="fa-solid fa-heart"></i>
+					<h2>UI/UX Designer</h2>
+				   <p>UI/UX design is the process of creating user interfaces and user experiences for products and services.
+				   UI stands for user interface, and UX stands for user experience.</p>
+				   <p class="learn">Learn more...</p>
+				</div>
+				<div class="services-box3">
+					<i class="fa-solid fa-heart"></i>
+					<h2>Data Analysis</h2>
+				   <p>Data analysis is the process of examining data to find patterns, trends, and conclusions. It's used to answer questions 
+				   like "What's happening?" or "Why is it happening?".</p>
+				   <p class="learn">Learn more...</p>
+				</div>
+			</div>
+		</div>
+		<div class="projects" id="projects">
+			<div class="projects-h1">
+				<h1>My Projects<i class="fa-solid fa-heart"> </i></h1>
+				
+			</div>
+			<div class="projects-box">
+				<div class="p1">
+					<div class="project-box1"></div>
+					<a href="https://atultodo.netlify.app/" target="blank">Todo</a>
+				</div>
+				<div class="p2">
+					<div class="project-box2"></div>
+					<a href="#">Amazon</a>
+				</div>
+				<div class="p3">
+					<div class="project-box3"></div>
+					<a href="https://shoply123.netlify.app/" target="blank">Shoply</a>
+				</div>
+			</div>
+		</div>
+		<div class="contect" id="contect">
+			<div class="contect-left">
+				<div class="contect-lefth1">
+					<h1>Contect me</h1>
+				</div>
+				<div class="contect-left1">
+				<div class="contect-left-teli">
+					<i class="fa-regular fa-envelope"></i>
+					<span>atulvardhane128@gmail.com</span>
+				</div>
+				<div class="contect-left-phone">
+					<i class="fa-solid fa-phone"></i>
+					<span>8434482331</span>
+				</div>
+				<div class="contect-left-soc-media">
+					<div>
+						<a href="https://www.instagram.com/?next=%2F" target="blank"><i class="fa-brands fa-square-instagram"></i></a>
+					</div>
+					<div>
+					<a href="#"><i class="fa-brands fa-facebook"></i></a>
+					</div>
+					<div>
+						<a href="https://x.com/home" target="blank"><i class="fa-brands fa-square-x-twitter"></i></a>
+					</div>
+					<div>
+						<a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="blank"><i class="fa-brands fa-linkedin"></i></a>
+					</div>
+					<div>
+						<a href="https://github.com/Atul-128" target="blank"><i class="fa-brands fa-github"></i></a>
+					</div>
+				</div>
+				<div class="contect-btn">
+					<a href="Atul-Resume.pdf"><button>Download CV</button></a>
+				</div>
+				</div>
+		</div>
+				<div class="contect-right">
+				<form>
+					<div class="right-input">
+						<input type="text" placeholder="Enter your name" class="input1">
+						<input type="text" placeholder="Enter Gmail" class="input2">
+						<textarea placeholder="Message" class="text-msg"></textarea>
+					</div>
+					<div class="submit">
+						<button>Submit</button>
+					</div>
+					</form>
+				</div>
+			</div>
+		<script src="port.js"></script>
+	</body>
+</html>

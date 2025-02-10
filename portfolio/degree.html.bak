@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>Documents</title>
+		<link rel="stylesheet" href="degree.css">
+	</head>
+	<body>
+	<div class="all">
+		<div>		
+		</div>
+			<div class="adca">>	<p>10th Certificate</p>
+				<a href="document/10th mark.jpg">Click me</a>
+			</div>
+			<div class="adca">  <p>12th Certificate</p><a href="document/12th mark.jpg">Click me</a></div>
+			<div class="adca">	<p>ITI Certificate</p><a href="document/iti.jpg">Click me</a></div>
+			<div class="adca">	<p> O level Certificate</p><a href="document/10th mark.jpg">Click me</a></div>
+			<div class="adca">	<p>Intership Certificate</p><a href="document/intership.jpg">Click me</a></div>
+			<div class="adca">	<p>Hackthone Certificate</p><a href="document/hackthone.jpg">Click me</a></div>
+			<div class="adca">	<p>ADCA Certificate</p><a href="document/adca.jpg">Click me</a></div>
+			<div class="adca">	<p>Certificate of Achivement</p><a href="document/tcs.jpg">Click me</a></div>
+			<div class="adca">	<p>Certificate of Power BI</p><a href="document/Power BI.pdf">Click me</a></div>
+			<div class="adca">	<p>Certificate of Participate</p><a href="document/hacker.png">Click me</a></div>
+		</div>
+	</body>
+</html>
